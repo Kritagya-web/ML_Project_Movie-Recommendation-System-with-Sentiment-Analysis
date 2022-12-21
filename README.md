@@ -1,5 +1,6 @@
 # Movie Recommendation System
-![![Author Kritagya](https://img.shields.io/badge/Author-Kritagya-%3C%3E)](https://www.linkedin.com/in/kritagya-kumra-bba9b41b6/)
+
+&middot;[![Author Kritagya](https://img.shields.io/badge/Author-Kritagya-%3C%3E)](https://www.linkedin.com/in/kritagya-kumra-bba9b41b6/)
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
