@@ -1,5 +1,5 @@
 # Movie Recommendation System
-
+![![Author Kritagya](https://img.shields.io/badge/Author-Kritagya-%3C%3E)](https://www.linkedin.com/in/kritagya-kumra-bba9b41b6/)
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
@@ -15,7 +15,9 @@ The movies are recommended based on the content of the movie you entered or sele
 
 ## Taken inspiration from Krish's Live Session on YouTube
 
-[![krish youtube](https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/static/krish-naik.PNG)](https://www.youtube.com/watch?v=A_78fGgQMjM)
+## Some Screenshots of the Project
+
+
 
 ## How to get the API key?
 
