@@ -18,7 +18,25 @@ The movies are recommended based on the content of the movie you entered or sele
 
 ## Some Screenshots of the Project
 
+##Home Page
 
+![homepage](https://github.com/Kritagya-web/ML_Project_Movie-Recommendation-System-with-Sentiment-Analysis/blob/main/Screenshots/HomePage.png)
+
+##Movie Search
+
+![MovieSearch](https://github.com/Kritagya-web/ML_Project_Movie-Recommendation-System-with-Sentiment-Analysis/blob/main/Screenshots/MovieSearch.png)
+
+##Movie Cast
+
+![MovieCast](https://github.com/Kritagya-web/ML_Project_Movie-Recommendation-System-with-Sentiment-Analysis/blob/main/Screenshots/CastOfMovies.png)
+
+##Reviews of People
+
+![ReviewsOfViewers](https://github.com/Kritagya-web/ML_Project_Movie-Recommendation-System-with-Sentiment-Analysis/blob/main/Screenshots/ReviewsOfViewers.png)
+
+##Movie Recommendation
+
+![MovieRecommendation](https://github.com/Kritagya-web/ML_Project_Movie-Recommendation-System-with-Sentiment-Analysis/blob/main/Screenshots/MovieRecommendation.png)
 
 ## How to get the API key?
 
